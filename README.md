@@ -1,13 +1,16 @@
 
 Tennis game scoring system
 -------------------------------
+## Problem Statement
+Implement tennis game scoring system. 
+
 The scoring system for tennis works like this.
 
 * A match has one set and a set has many games
 
 * A game is won by the first player to have won at least 4 points in total and at least 2 points more than the opponent.
-
-  * The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as 0, 15, 30, 40, respectively
+  
+* The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as 0, 15, 30, 40, respectively
 
  * If at least 3 points have been scored by each player, and the scores are equal, the score is "deuce".
 
@@ -24,6 +27,7 @@ The scoring system for tennis works like this.
 * Add a score method that will return the current set score followed by the current game score 
 
 * Add a pointWonBy method that indicates who won the point
+
 ### Example interfaces(Java)
 The interface should look something like this in Java:
 
