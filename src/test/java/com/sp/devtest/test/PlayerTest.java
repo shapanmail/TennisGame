@@ -1,8 +1,8 @@
-package com.dius.devtest.test;
+package com.sp.devtest.test;
 
 
 
-import com.dius.devtest.Player;
+import com.sp.devtest.Player;
 import org.junit.Before;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;

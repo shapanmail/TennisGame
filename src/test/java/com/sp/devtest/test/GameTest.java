@@ -1,6 +1,6 @@
-package com.dius.devtest.test;
+package com.sp.devtest.test;
 
-import com.dius.devtest.Game;
+import com.sp.devtest.Game;
 import org.junit.Before;
 import org.junit.Test;
 

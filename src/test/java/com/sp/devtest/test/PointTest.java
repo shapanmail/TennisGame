@@ -1,12 +1,11 @@
-package com.dius.devtest.test;
+package com.sp.devtest.test;
 
 
 
-import com.dius.devtest.Point;
+import com.sp.devtest.Point;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 
 public class PointTest {

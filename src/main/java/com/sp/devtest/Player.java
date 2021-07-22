@@ -1,4 +1,4 @@
-package com.dius.devtest;
+package com.sp.devtest;
 
 
 public class Player {

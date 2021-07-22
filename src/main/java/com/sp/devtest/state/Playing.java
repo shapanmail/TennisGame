@@ -1,7 +1,7 @@
-package com.dius.devtest.state;
+package com.sp.devtest.state;
 
-import com.dius.devtest.Game;
-import com.dius.devtest.Player;
+import com.sp.devtest.Game;
+import com.sp.devtest.Player;
 
 
 public class Playing implements State {

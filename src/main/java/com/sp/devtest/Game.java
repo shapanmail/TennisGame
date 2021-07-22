@@ -1,6 +1,7 @@
-package com.dius.devtest;
+package com.sp.devtest;
 
 import com.dius.devtest.state.*;
+import com.sp.devtest.state.*;
 
 
 public class Game {

@@ -1,6 +1,6 @@
-package com.dius.devtest.state;
+package com.sp.devtest.state;
 
-import com.dius.devtest.Player;
+import com.sp.devtest.Player;
 
 
 public interface State {
